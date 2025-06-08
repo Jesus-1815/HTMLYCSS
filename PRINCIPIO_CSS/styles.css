@@ -1,0 +1,21 @@
+P{
+    
+    color: red;/*color de la fuente */
+    font-family: sans-serif;/* tipo de fuente */
+    font-size: 20px;/*tamano de la funte  */
+    font-weight: bold;/*en negrita  oh grosorn de la letra*/
+    font-style: oblique;/*inclinacion de la letra*/
+    text-align:justify;/* posicion del texto */
+    line-height: 3; /*interlineado*/
+    letter-spacing: 1px;/*separacion entrer las letras */
+    text-transform: uppercase;/*transforma el texto en este caso todo mayuscula*/
+    text-shadow: 0px 0px 4px #f99;/*sombrado de letra*/
+}
+a{
+    text-decoration: none;/* por ejemplo le quitamos la linea de subrayado al link*/
+}
+span{
+text-decoration:line-through;/*decora el texto lineas tachados etc */
+}
+
+
