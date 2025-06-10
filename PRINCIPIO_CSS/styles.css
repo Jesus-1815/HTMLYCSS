@@ -1,9 +1,9 @@
 P{
     
     color: red;/*color de la fuente */
-    font-family: sans-serif;/* tipo de fuente */
+    font-family: Yisus;/* tipo de fuente */
     font-size: 20px;/*tamano de la funte  */
-    font-weight: bold;/*en negrita  oh grosorn de la letra*/
+    font-weight: 800;/*en negrita  oh grosorn de la letra*/
     font-style: oblique;/*inclinacion de la letra*/
     text-align:justify;/* posicion del texto */
     line-height: 3; /*interlineado*/
